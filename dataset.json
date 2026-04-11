@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Beaumont, Texas with a population of over 115k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Beaumont, Texas, US",
+  "export_job_id": "cca6b456-a99e-4c08-abaf-486925125773",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 110979,
+  "location_name": "Beaumont",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-beaumont-texas-us-sample-110979",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/110979/beamstation_110979_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.86,
+  "sample_records": 29,
+  "sample_sha256": "d724b9425db85fa5577db742669d593e1a0d8aa69388ddf7190cf97691219d3b",
+  "sample_size_bytes": 118745,
+  "total_records": 294,
+  "updated_at": "2026-04-09T09:21:11.321111+00:00"
+}

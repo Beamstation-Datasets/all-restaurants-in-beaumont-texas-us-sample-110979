@@ -1,6 +1,6 @@
 # All Restaurants in Beaumont, Texas, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `110979` |
 | Location | Beaumont |
 | Category | Restaurants |
-| Full dataset size | 294 records |
-| Free sample size | 29 records (9.86%) |
-| Last export | 2026-04-09T09:21:11.321111+00:00 |
+| Full dataset size | 308 records |
+| Free sample size | 30 records (9.74%) |
+| Last export | 2026-04-16T09:20:16.689938+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-beaumont-texas-us-sample-110979/releases/download/sample-latest/beamstation_110979_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample

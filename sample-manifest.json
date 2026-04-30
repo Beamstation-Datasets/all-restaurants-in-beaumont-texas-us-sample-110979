@@ -1,12 +1,12 @@
 {
-  "export_job_id": "993912bd-c5b0-4da8-8ff8-9353c452de8a",
+  "export_job_id": "18c2b5ed-3ecb-494b-89ad-855e70e3ea5e",
   "id_short": 110979,
-  "published_at": "2026-04-23T19:08:35Z",
+  "published_at": "2026-04-30T19:03:41Z",
   "repo_name": "all-restaurants-in-beaumont-texas-us-sample-110979",
   "sample_asset_name": "beamstation_110979_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/110979/beamstation_110979_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "8b11d10979a5e3b09e5d82eacbfcdec387282bcf10d5397a2df40262c517c078",
-  "sample_size_bytes": 94611,
-  "total_records": 272
+  "sample_records": 35,
+  "sample_sha256": "9740e873afaaedf958f16d9f851e810f0e42ad8293b2c1943fc05a6cc10bc5ef",
+  "sample_size_bytes": 147135,
+  "total_records": 357
 }
